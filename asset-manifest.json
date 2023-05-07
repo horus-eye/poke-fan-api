@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/horus-eye/poke-fan-api/static/css/main.ea6bfbaa.css",
-    "main.js": "/horus-eye/poke-fan-api/static/js/main.afa0960d.js",
-    "static/media/poke.jpg": "/horus-eye/poke-fan-api/static/media/poke.5d547d38211b36e43a3e.jpg",
-    "index.html": "/horus-eye/poke-fan-api/index.html",
-    "main.ea6bfbaa.css.map": "/horus-eye/poke-fan-api/static/css/main.ea6bfbaa.css.map",
-    "main.afa0960d.js.map": "/horus-eye/poke-fan-api/static/js/main.afa0960d.js.map"
+    "main.css": "/poke-fan-api/static/css/main.780306c7.css",
+    "main.js": "/poke-fan-api/static/js/main.afa0960d.js",
+    "static/media/poke.jpg": "/poke-fan-api/static/media/poke.5d547d38211b36e43a3e.jpg",
+    "index.html": "/poke-fan-api/index.html",
+    "main.780306c7.css.map": "/poke-fan-api/static/css/main.780306c7.css.map",
+    "main.afa0960d.js.map": "/poke-fan-api/static/js/main.afa0960d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea6bfbaa.css",
+    "static/css/main.780306c7.css",
     "static/js/main.afa0960d.js"
   ]
 }
